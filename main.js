@@ -1,13 +1,13 @@
 (function(){
 
-var TEXT_LOADING = 'Loading...\n\n宝哥的怒气值: %s %';
+var TEXT_LOADING = 'Loading...\n\nCherry的怒气值: %s %';
 var TEXT_SCORE = '+ %s s';
-var TEXT_GAME_OVER = '我我让宝哥生气了%s秒\n自己花费了%s秒\n而且这个效率是: %s%';
+var TEXT_GAME_OVER = '我让叔叔生气了%s秒\n自己花费了%s秒';
 var TEXT_TRY_AGAIN = '重新让他生气';
-var TEXT_PLAY_BGM = '宝哥我呀，是真的生气了';
+var TEXT_PLAY_BGM = 'Cherry我呀，是真的生气了';
 var TEXT_TIME_ELAPSED = '- %s s';
 var TEXT_TOTAL_TIME_ELAPSED = '累计生气 %s 秒';
-var TEXT_TINY_TIPS = '[微小的提示]\n为了获得最好的游戏体验，请：\n打开音量\n注意宝哥行踪';
+var TEXT_TINY_TIPS = '[微小的提示]\n为了获得最好的游戏体验，请：\n打开音量\n注意您的B站账号';
 var TEXT_FONT = '"Segoe UI", "Microsoft YaHei", 宋体, sans-serif'; // 插入宋体
 
 var _gravity = 40,
