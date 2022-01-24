@@ -2,7 +2,7 @@
 
 var TEXT_LOADING = 'Loading...\n\nCherry的怒气值: %s %';
 var TEXT_SCORE = '+ %s s';
-var TEXT_GAME_OVER = '我让叔叔生气了%s秒\n自己花费了%s秒';
+var TEXT_GAME_OVER = '我让叔叔生气了%s次\n自己花费了%s秒';
 var TEXT_TRY_AGAIN = '重新让他生气';
 var TEXT_PLAY_BGM = 'Cherry我呀，是真的生气了';
 var TEXT_TIME_ELAPSED = '- %s s';
